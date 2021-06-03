@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A method proposed for the regulating the coin which will certainly prevent its exportation, hinder its being melted down, and bring forth hoards of mill'd and broad mony, increase the exportation of the manufactories and productions of England, and raise a considerable sum towards carrying on the war, and consequently very much inrich the nation.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26816</idno><idno type="EEBO-CITATION">99829584</idno>
+  <idno type="VID">206963</idno>
+  <idno type="EEBO-PROQUEST">2248501390</idno>
+  
+            <idno type="STC">Wing M1949</idno>
+            <idno type="PROQUEST">99829584</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829584e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206963)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1871:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A method proposed for the regulating the coin which will certainly prevent its exportation, hinder its being melted down, and bring forth hoards of mill'd and broad mony, increase the exportation of the manufactories and productions of England, and raise a considerable sum towards carrying on the war, and consequently very much inrich the nation.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206963:1"/>
+            <head>
+               <hi>A Method proposed for the Regulating the Coin, which will certainly prevent its Exportation, hinder its being Melted down, and bring forth Hoards of Mill'd and Broad Mony, increase the Exportation of the Manufactories and Productions of</hi> England, <hi>and raise a consi<g ref="char:EOLhyphen"/>derable Sum towards carrying on the War, and consequently very much inrich the Nation.</hi>
+            </head>
+            <p>THAT a Tax of Twelve Pence <hi>per</hi> Ounce be laid upon all Sterling Silver coin'd in His Majesty's Mints, and proportionably on Gold; which will keep the pric of Silver and Gold coin'd above the price of the same un-coin'd, and keep the Mony out of the melting Pot, and hinder the Exportation thereof.</p>
+            <p>That the Silver Mony, <hi>viz.</hi> Broad, Unclipp'd and Mill'd, shall be current in all Receipts and Payments whatsoever betwixt Man and Man, at the following Rates, <hi>viz.</hi> the Crown piece at six Shillings and three Pence, Half Crown at three Shillings and three half Pence, Shilling at one Shilling three Pence, and the Sixpence at Sevenpence halfpenny: The two latter are equal parts of a Pound or more, the two former <hi>species</hi> are equal parts of five Pound or more, and will answer Payments very well, as appears by the following Table:</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>16 pieces of 6 s. 3 d. is</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>320 pieces of 6 s. is</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>160</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>32 pieces of 3 s. 1½ d. is</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>640 pieces of 3 s. 1½ d.</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>320</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>160</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>16 pieces of 1 s. 3 d. is</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>1280 pieces of 1 s. 3 d. is</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>640</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>320</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>160</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>32 pieces of 7½ d. is</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>2560 pieces of 7½ d is</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1280</cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>640</cell>
+                     <cell>25</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>320</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>160</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>80</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                  </row>
+               </table>
+            </p>
+            <p>That un-coin'd Silver (and Gold in proportion) shall not be Bought or Sold, or Offer'd above five Shillings fivepence <hi>per</hi> Ounce, and that it be Enacted Treason in any Person offending therein, except wrought Silver or Gold, which may be sold for more, according as the Workmanship shall be valued at by Persons appointed to Regulate the same.</p>
+            <p>That broad Gold shall be current in Payment, betwixt Man and Man, in proportion to Guinea's.</p>
+            <p>That all manner of clipp'd Silver do pass in Payments at what they were coin'd for, as also the small Silver Coins of a Penny, Twopence, Threepence and Fourpence.</p>
+            <p>That the Exportion of Bullion and Spanish pieces of Eight be prohibited, except for the King's Account or the <hi>East-India</hi> Company, there being Commodities enough in <hi>England</hi> to bring home what Commodities we stand in need of, without incouraging Foreigners to Import Goods upon us, and make their Returns in Silver and Gold, which a Prohibition will prevent, and bring Foreigners under a necessity of returning their Effects by Exchange or Goods, the former of which will cost them dear, they having the over-ballance of Trade, which will oblige them to take Goods or let their Mony ly dead, and wait till our English Merchants have more Effects in <hi>Holland,</hi> that shall oblige them to draw at a more reasonable Exchange.</p>
+            <p>
+               <label>Object.</label>
+               <hi>That Silver and Gold un-coin'd will not rest at the propos'd Price limited, it being intrinsically worth as much as the same coin'd.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> Suppose I go to a Goldsmiths Shop, allowing the Coin to be on the same foot it now is, and carry with me 100 Crown pieces, each piece suppose to be intrinsically worth an Ounce of Silver in the Bar or Ingot, and that I would buy 100 Ounces of new wrought Plate with it; now I would ask, whether this 100 Crowns or 100 Ounces of any Silver whatsoever, of the same Fineness, will purchase this 100 Ounces of wrought Plate? Don't we pay 6 or 12 <hi>d. per</hi> Ounce more, according to the Workmanship, for the Fashion? Which very Answer may be made as to coin'd Silver or Gold; it cost me so much <hi>per</hi> Ounce to the King for Coinage, and is <hi>per</hi> Ounce more valuable to me than uncoin'd.</p>
+            <p>
+               <label>Object.</label>
+               <hi>That raising the Silver and Gold Coins will cause the Dutch to Import it upon us, and by that means raise the Exchange, to the disadvantage and impoverishment of</hi> England.</p>
+            <p>
+               <label>Answ.</label> Admit the <hi>Hollanders</hi> have in <hi>England</hi> 80000 <hi>l.</hi> which they cannot have remitted them by Exchange or in <hi>specie</hi> under 15 or 20 <hi>per Cent.</hi> occasion'd by the over-ballance of Trade and the advance of our Mony, then how is it possible the <hi>Hollander</hi> can be the Gainer? If his Factor draws he brings more Mony here, if he remits he loses by Exchange 15 <hi>per Cent.</hi> and if he sends it in <hi>specie</hi> he loses 20 <hi>per Cent.</hi> by his Mony, besides the risk of its being seiz'd: Is there no way to be found in <hi>Holland</hi> to get home this Mony, with<g ref="char:EOLhyphen"/>out being so great a Sufferer by the Exchange? No, its impossible; if in <hi>Holland</hi> we draw for <hi>London,</hi> the English Factors will give us but 85 <hi>l.</hi> for our 100 <hi>l.</hi> in <hi>London;</hi> and if we order it to be sent us in Guinea's or Silver, we must lose 20 <hi>per Cent.</hi> which plainly shews, the Dutch having the over-ballance of Trade, are Losers by the Exchange, sup<g ref="char:EOLhyphen"/>posing the Mony to be advanced; which as it now is, I mean when the new Mony is coined, the <hi>Hollander</hi> will save the said 15 <hi>per Cent.</hi> by Exchange, in sending it over in Mill'd Mony and Guinea's; and our Merchants that have Effects in <hi>Holland</hi> will not return their Mony in <hi>specie,</hi> by reason the over-ballance of Trade keeps up the Exchange 10 or 15 <hi>per Cent.</hi> which he shall gain by remitting his Mony for <hi>London</hi> by Exchange; but if he sends it in Mony at 5 <hi>s.</hi> the Crown he can get nothing by it; so that 'tis impossible to expect the return of our Coin from <hi>Holland,</hi> unless it be raised in the Mint (and now is the time, it being the major part in the King's Hands) which will make the return of our Mony by Exchange, or in Coin, proportionable, and we shall thereby be considerable Gainers by the Dutch, as appears by the following Account, stated Debtor and Creditor.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>English Effects in</hi> Holland</cell>
+                     <cell>40000</cell>
+                     <cell rows="2">80000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>After the above Export to</hi> Holland</cell>
+                     <cell>40000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By the Dutch Exchange we gain</hi>
+                     </cell>
+                     <cell role="total">8000</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>English gain by the return of</hi> 48000 l. <hi>in Mill'd Mony and Gold</hi>
+                     </cell>
+                     <cell>9600</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">17600</cell>
+                     <cell>17600 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total">97600 <hi>l.</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Dutch Effects in</hi> Holland</cell>
+                     <cell> </cell>
+                     <cell>80000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch remit</hi> per <hi>Exchange</hi> 40000 l. <hi>at</hi> 20 per Cent. <hi>Loss, which is in</hi> Holland <hi>but</hi>
+                     </cell>
+                     <cell>32000</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch export to</hi> Holland 40000 l. <hi>in</hi> specie, <hi>at</hi> 20 per Cent. <hi>Loss, and make in</hi> Holland <hi>but</hi>
+                     </cell>
+                     <cell>32000</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">64000</cell>
+                     <cell>64000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch lose by getting their Mony home</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>16000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ballance which the Dutch make less of the said</hi> 80000 l. <hi>than the English</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>17600 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total">97600 <hi>l.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <label>Object.</label>
+               <hi>Exchange is Govern'd by our Mony, and if our Mony advance in Denomination, Exchange must advance also in Proportion.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> Exchange is not Govern'd by our Mony, but by the over-ballance of Trade, which causeth that Nation so over-ballenc'd, to raise their Exchange, there being greater Remittances then Drafts by Exchange, and all understanding Men are sensible that the more any Commodity is bought up, the more its in Demand, and consequently shall bear the higher Price, and that Exchange shall not Rise by the advance of our Mony but on the contrary must of necessity Fall. As for Example, Suppose an English Merchant residing in <hi>Amsterdam,</hi> who would remit 100 <hi>l.</hi> for <hi>London,</hi> and say Exchange betwixt <hi>Amsterdam</hi> and <hi>London</hi> is at 15 <hi>per Cent.</hi> this Merchant goes to a Dutch Merchant de<g ref="char:EOLhyphen"/>siring a 100 <hi>l.</hi> Bill for <hi>London,</hi> and what Exchange he would give him: His Answer is 15 <hi>per Cent.</hi> No, saith the English Merchant, if you will not give me 20 <hi>per Cent.</hi> I will send it over in English Mony, by which I can make 20 <hi>per Cent.</hi> For I can Buy the Crown piece for 5 <hi>s.</hi> 3 <hi>d.</hi> perhaps under 5 <hi>s.</hi> So that the Dutch shall not know how to get home their Effects, either by Exchange or Mony, without great Loss; which puts them on the necessity of buying up our Commodeties, and stop their vast Importa<g ref="char:EOLhyphen"/>tions, which is that alone can keep down our Exchange; and the lower the Exchange is, the greater Incouragment will be found to return our Coin'd Gold and Silver, which must all come home again, if Exchange be not above 20 <hi>per Cent.</hi> the advance of the Coin making it equivalent to Exchange, at 20 <hi>per Cent.</hi> Which, I conceive, no Foreigner will be easie under; I mean to give 20 <hi>per Cent.</hi> to get home their Mony; so that our Mony being advanced, and Foreigner not able to save Exchange (as they certainly will, our Crown piece being continued at 5 <hi>s.)</hi> And by that means pour in Goods upon us, and make the Trade of <hi>England</hi> as profitable as the <hi>Spanish Indies</hi> to the <hi>Spaniard,</hi> whilst we have a Mild Crown or Guinea in <hi>England.</hi>
+            </p>
+            <p>
+               <label>Object.</label>
+               <hi>That supposing the Coin to be advanced, as is said, then the</hi> Hollander <hi>will Import English Gold and Silver, by which they shall gain</hi> 20 per Cent. <hi>and Buy up our Goods, send them to Markets abroad, and undersel us with our own Commodeties.</hi>
+            </p>
+            <p>
+               <label>Ans.</label> The Dutch cannot be the Persons that can Import much of our own <hi>Coin</hi> upon us, having the over-ballance of Trade, and undoubtedly more Mony already in <hi>England</hi> then they know how to dispose of, which has obliged them to put a stop to the Importation of both Goods and Mony, until they can find a way to get home their Effects, which will cost them Dear either by Exchange or Mony, there being no weighty Mony for their purpose; now if there be any thing to be got by Gold or Exchange, the English must be the Gainers, having Effects in <hi>Holland</hi> by which they are double Gainers. First, by their Goods; and, Secondly, by the Exchange or Guinea's. But fur<g ref="char:EOLhyphen"/>ther, as to their buying up our Commodities with Guinea's, have not they the same advantage by Importing of Goods, by which they have often got 20 <hi>per Cent?</hi> And shall not the Mony which is the Net proceed of these Goods, as well purchase our Commodities to send abroad, and thereby undersel us at Markets abroad? Now I ask whether of the two is the advantage of <hi>England?</hi> The one is Treasure and doth Inrich us, and the other Impoverish us, and carry away our Mony, which the People of <hi>England</hi> seem fond of, and are angry at the Importation of Guinea's, as if the Dutch was the only Importers of 'em, and that it was a Grievance to the Nation: Are we not upon equal Terms with the Dutch in Exporting our Commodities to <hi>Holland</hi> and <hi>Flanders,</hi> by which we are sure to be Gainers, the produce of which we may send home in Guinea's at a certain profit, or purchase <hi>Holland</hi> Cloth or any other Commodities, and thereby undersel them at Foreign Markets? Now admit the Exchange betwixt <hi>England</hi> and <hi>Holland</hi> to be at <hi>par,</hi> and that there were no advantage by Mony either of one side or the other, have not then the <hi>Hollander</hi> the same advantage to Import Goods upon us? And with the Produce of those Goods, purchase our Commodities, and send them to Foreign Markets cheaper then the English, and we the same of them, by as much as is gained by the Goods, on either side.</p>
+            <p>
+               <label>Object.</label>
+               <hi>That the English, being over-ballanced in Trade by the Dutch, have then no Effects in</hi> Holland.</p>
+            <p>
+               <label>Answ.</label> Can the Trade 'twixt one Country and another be compared with an Account 'twixt a Merchant and a Retailer, who takes 6 or 12 Months Credit? I think a Mer<g ref="char:EOLhyphen"/>chant that knows any thing can inform us to the contrary; though I have observed some Persons who have Writ on the Subject of the Coin, would have the Ballence of Trade to be as a Debt 'twixt Man and Man, which I am sure no Man of Sense will allow; for the Trade 'twixt one Country and another is managed by Persons on Commission or Factorage, who are imploied as Servants, created by Letters, to Buy and Sell Commodities for other Men's Accounts, for which they receive Factorage or Commission for their Trouble, but shall not run any manner of Riskque or Hazard, if the Goods be Cast-away, Burnt, or Stolen, or any other Accident shall happen, they are not to bear it; which is the general way of Dealing 'twixt one Country and Another. And plainly shows that the over-ballence of Trade can be no Debt; for if the Dutch have Effects here, or we Effects in <hi>Holland,</hi> and it be not return'd by Exchange, Goods or Mony, its the same thing to the Factor he matters not how long its left in his Hands, all that he regards is to perform the Instructions which is sent him; that it being no Debt, so theirs no necessity on us to pay it, as some would have it.</p>
+            <p>
+               <label>Object.</label>
+               <hi>That if the Hollander cannot get by the return of their Mony, they shall by the Sale of their Commodities, which they will put a value on according to the Intrinsick value of our Mony, for which they give their Commodities in Exchange.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> An English Man shall Import the same Goods, and as good a Commodity as theirs, which he will sell according to the Denomination of Mony in <hi>England,</hi> and not according to the Intrinsick value in <hi>Holland,</hi> which he has no reason to consider in <hi>England</hi> (nor the Hollander neither were he to lay out all his Effects in Commodities) being to make use of his Mony here, and not remit it to <hi>Holland</hi> at 15 or 20 <hi>per Cent</hi> Loss. And I do say, that nothing shall be the occasion of raising or falling Commodities, but the scarsity or plenty thereof.</p>
+            <p>I might have treated largely on this Subject, and a particularized the Foreign Species and our own, more Merchant like, which is my design wholly to wave; and if any Merchants or others, can reasonably object against this Method proposed, I doubt not but am ably to remove any such Objections. In the interim, I desire a favourable Construction, and believe that I am a true English Man and Lover of my Country, and cannot be easie to see the Nation impoverished by exhausting its Treasure, if my Advice can prevent it.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
